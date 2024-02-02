@@ -37,7 +37,7 @@ bind(
 # Commit date: 2023-12-18
 ENVOY_SHA = "dev"
 
-ENVOY_SHA256 = "bf14c4b53ffb905e0bb05843051001520ed4249c0bc95dd0f20f407fc1fa2d25"
+ENVOY_SHA256 = "ef1f32efc622f430dbabf34ea85144297ba84e843c5720b18ad0bd7f81d2bff7"
 
 ENVOY_ORG = "qudongfang"
 
